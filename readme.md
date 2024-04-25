@@ -17,3 +17,4 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 # Modules
 
 - [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser
+- [snute](https://github.com/remimimimimi/snuta) - A music composition library
