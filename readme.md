@@ -16,5 +16,9 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 
 # Modules
 
-- [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser
 - [snuta](https://github.com/remimimimimi/snuta) - A music composition library
+- [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser (largely superseeded by the built-in [`json`](https://uiua.org/docs/json) function)
+
+# Other Tools
+
+- [RUiua](https://github.com/DJAntonBruckner/RUiua) - Run R code from Uiua
