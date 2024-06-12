@@ -16,6 +16,7 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 
 # Modules
 
+- [uiua-math](https://github.com/Omnikar/uiua-math) - Various math(s)-related functions
 - [snuta](https://github.com/remimimimimi/snuta) - A music composition library
 - [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser (largely superseeded by the built-in [`json`](https://uiua.org/docs/json) function)
 
