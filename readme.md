@@ -19,7 +19,7 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 - [uiua-math](https://github.com/Omnikar/uiua-math) - Various math(s)-related functions
 - [makros.ua](https://github.com/Marcos-cat/makros.ua) - a collection of macros intended to speed up uiua development
 - [snuta](https://github.com/remimimimimi/snuta) - A music composition library
-- [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser (largely superseeded by the built-in [`json`](https://uiua.org/docs/json) function)
+- [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser (largely superseded by the built-in [`json`](https://uiua.org/docs/json) function)
 
 # Other Tools
 
