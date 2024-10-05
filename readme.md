@@ -2,7 +2,7 @@
 
 This is a curated collection of Uiua modules.
 
-To add you module to this list, you can create a [pull request](https://github.com/uiua/uiua-modules/pulls).
+To add your module to this list, you can create a [pull request](https://github.com/uiua/uiua-modules/pulls).
 
 # How to use modules
 
