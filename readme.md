@@ -16,11 +16,11 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 
 # Modules
 
-- [uiua-math](https://github.com/Omnikar/uiua-math) - Various math(s)-related functions
-- [makros.ua](https://github.com/Marcos-cat/makros.ua) - a collection of macros intended to speed up uiua development
-- [snuta](https://github.com/remimimimimi/snuta) - A music composition library
-- [uiua-json](https://github.com/ekgame/uiua-json) - A JSON parser (largely superseded by the built-in [`json`](https://uiua.org/docs/json) function)
+- [Omnikar/uiua-math](https://github.com/Omnikar/uiua-math) - Various math(s)-related functions
+- [Omnikar/uiua-plot](https://github.com/Omnikar/uiua-plot) - A plotting library
+- [Marcos-cat/makros.ua](https://github.com/Marcos-cat/makros.ua) - A collection of macros intended to speed up uiua development
+- [remimimimimi/snuta](https://github.com/remimimimimi/snuta) - A music composition library
 
 # Other Tools
 
-- [RUiua](https://github.com/DJAntonBruckner/RUiua) - Run R code from Uiua
+- [DJAntonBruckner/RUiua](https://github.com/DJAntonBruckner/RUiua) - Run R code from Uiua
