@@ -18,8 +18,10 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 
 - [Omnikar/uiua-math](https://github.com/Omnikar/uiua-math) - Various math(s)-related functions
 - [Omnikar/uiua-plot](https://github.com/Omnikar/uiua-plot) - A plotting library
-- [ekgame/uiua-essentials](https://github.com/ekgame/uiua-essentials) - Closest thing to a Uiua standard library
+- [uiua-lang/rayua](https://github.com/uiua-lang/rayua) - Uiua bindings for Raylib
+  - [Marcos-cat/iris](https://github.com/Marcos-cat/iris) - A nice wrapper around Rayua
 - [amatgil/steal-gift](https://github.com/amatgil/steal-gift) - Automatically download Advent of Code inputs
+- [ekgame/uiua-essentials](https://github.com/ekgame/uiua-essentials) - Closest thing to a Uiua standard library
 - [Marcos-cat/makros.ua](https://github.com/Marcos-cat/makros.ua) - A collection of macros intended to speed up uiua development
 
 # Other Tools
