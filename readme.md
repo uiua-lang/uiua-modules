@@ -25,6 +25,7 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 - [ekgame/uiua-essentials](https://github.com/ekgame/uiua-essentials) - Closest thing to a Uiua standard library
 - [Marcos-cat/makros.ua](https://github.com/Marcos-cat/makros.ua) - A collection of macros intended to speed up uiua development
 - [rhododendrhon/uiutils](https://github.com/rhododendrhon/uiutils) - Set of miscellaneous functions, including kinematics
+- [alex-s168/uiua-bin](https://github.com/alex-s168/uiua-bin) - Framework for working with binary data
 
 # Other Tools
 
