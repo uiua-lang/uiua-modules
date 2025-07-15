@@ -27,6 +27,7 @@ For more information, see the Uiua [Modules](https://uiua.org/tutorial/modules) 
 - [alex-s168/cursed-ua](https://github.com/alex-s168/cursed-ua) - A set of code macros to make Uiua code nicer (mostly type definitions)
 - [rhododendrhon/uiutils](https://github.com/rhododendrhon/uiutils) - Set of miscellaneous functions, including kinematics
 - [alex-s168/uiua-bin](https://github.com/alex-s168/uiua-bin) - Framework for working with binary data
+- [cqn-brwpna9/uiua-synth](https://github.com/cqn-brwpna9/uiua-synth) - A set of functions for synthesizing audio
 
 # Other Tools
 
